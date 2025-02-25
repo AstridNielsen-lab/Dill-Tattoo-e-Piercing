@@ -118,7 +118,7 @@ function App() {
               className="w-full h-64 object-cover rounded-lg"
             />
             <img
-              src="https://images.unsplash.com/photo-1585184394271-4c6a2670b5d8?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+              src="https://raw.githubusercontent.com/AstridNielsen-lab/Dill-Tattoo-e-Piercing/refs/heads/index/src/piercings.jpg?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
               alt="Piercing"
               className="w-full h-64 object-cover rounded-lg"
             />
