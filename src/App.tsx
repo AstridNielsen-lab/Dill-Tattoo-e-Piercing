@@ -106,36 +106,37 @@ function App() {
       </section>
 
      {/* Gallery Section */}
-      <section id="gallery" className="py-20">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-4xl font-bebas text-gold text-center mb-12">
-            Nossa Galeria
-          </h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-            <a href="https://images.unsplash.com/photo-1598371839696-5c5bb00bdc28?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" target="_blank" rel="noopener noreferrer">
-              <img
-                src="https://images.unsplash.com/photo-1598371839696-5c5bb00bdc28?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-                alt="Tatuagem"
-                className="w-full h-64 object-cover rounded-lg cursor-pointer"
-              />
-            </a>
-            <a href="https://raw.githubusercontent.com/AstridNielsen-lab/Dill-Tattoo-e-Piercing/refs/heads/index/src/piercings.jpg?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=100" target="_blank" rel="noopener noreferrer">
-              <img
-                src="https://raw.githubusercontent.com/AstridNielsen-lab/Dill-Tattoo-e-Piercing/refs/heads/index/src/piercings.jpg?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=100"
-                alt="Piercing"
-                className="w-full h-64 object-cover rounded-lg cursor-pointer"
-              />
-            </a>
-            <a href="https://images.unsplash.com/photo-1503951914875-452162b0f3f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" target="_blank" rel="noopener noreferrer">
-              <img
-                src="https://images.unsplash.com/photo-1503951914875-452162b0f3f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-                alt="Barbearia"
-                className="w-full h-64 object-cover rounded-lg cursor-pointer"
-              />
-            </a>
-          </div>
-        </div>
-      </section>
+<section id="gallery" className="py-20">
+  <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <h2 className="text-4xl font-bebas text-gold text-center mb-12">
+      Nossa Galeria
+    </h2>
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+      <a href="https://images.unsplash.com/photo-1598371839696-5c5bb00bdc28?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://images.unsplash.com/photo-1598371839696-5c5bb00bdc28?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+          alt="Tatuagem"
+          className="w-full h-96 object-cover rounded-lg"
+        />
+      </a>
+      <a href="https://raw.githubusercontent.com/AstridNielsen-lab/Dill-Tattoo-e-Piercing/refs/heads/index/src/piercings.jpg?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=100" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/AstridNielsen-lab/Dill-Tattoo-e-Piercing/refs/heads/index/src/piercings.jpg?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=100"
+          alt="Piercing"
+          className="w-full h-96 object-cover rounded-lg"
+        />
+      </a>
+      <a href="https://images.unsplash.com/photo-1503951914875-452162b0f3f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://images.unsplash.com/photo-1503951914875-452162b0f3f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+          alt="Barbearia"
+          className="w-full h-96 object-cover rounded-lg"
+        />
+      </a>
+    </div>
+  </div>
+</section>
+
 
       {/* Testimonials Section */}
       <section id="testimonials" className="py-20 bg-dark-gray">
