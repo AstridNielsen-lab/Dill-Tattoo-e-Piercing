@@ -1,6 +1,6 @@
 # Dill Tattoo e Piercing
 
-Bem-vindo ao Template do **Dill Tattoo e Piercing**! Este projeto é o site oficial do estúdio, onde oferecemos tatuagens personalizadas, aplicação profissional de piercings e barbearia especializada.
+Bem-vindo ao Template do **Dill Tattoo e Piercing**! Este projeto é o site oficial do estúdio, onde oferecem tatuagens personalizadas, aplicação profissional de piercings e barbearia especializada.
 
 ## Funcionalidades
 
